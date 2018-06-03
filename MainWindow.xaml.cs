@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ *Josh Degazio
+ *June 6, 2018
+ *QuadraticPlusPlus
+ *User inputs values, which the program uses in the quadratic formula to calculate roots. Program then displays roots.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
